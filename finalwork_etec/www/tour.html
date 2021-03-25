@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="utf-8">
+    <title>Apresentação App DonationStation</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+    <link rel="stylesheet" href="tiny-slider/dist/tiny-slider.css">
+    <link rel="stylesheet" href="tiny-slider/dist/theme.css">
+    <script src="tiny-slider/dist/tiny-slider.js"></script>
+    
+	<link rel="stylesheet" href="framework7-icons-master/css/framework7-icons.css">
+    <style>
+        .button {
+            background-color: dodgerblue;
+            border: none;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+            width: 100%;
+			vertical-align: middle;
+        }
+    </style>
+</head>
+
+<body style="background-color: dodgerblue; color: azure" onload="tour()">
+    <div class="my-slider" align="center">
+
+        <div id="div0" style="padding-right: 20px; padding-left: 20px;">            
+            
+            <h3><strong><img src="imgs/LOGO.png"><i class="fa fa-map-marker" aria-hidden="true"></i> BEM VINDO AO DONATION STATION</strong> </h3>
+           
+            <p> O aplicativo das doações</p>
+
+            <a href="index.html">
+            <button class="button"> Pular introdução <i class="f7-icons">arrow_right</i></button>        
+            </a>
+            </div>
+
+        
+        <div id="div1" style="padding-right: 20px; padding-left: 20px;">
+            <h3><strong><i class="fa fa-map-marker" aria-hidden="true"></i> O aplicativo</strong> </h3>
+            Com o <strong>Donation app</strong> você poderá organizar suas doações além de redestribuir-las para várias pessoas de forma igualitária e eficiente para todas as ONG´s de Atibaia.
+            <p></p>
+            
+        </div>
+
+        
+        
+        <div id="div2" style="padding-right: 20px; padding-left: 20px;">
+            <h3><strong><i class="fa fa-thermometer-quarter" aria-hidden="true"></i> Funcionamento</strong> </h3>
+            Com um design simples e leve, o aplicativo permite ao usuário entrar em contato direto com as ONGS de uma maneira fácil e rápida.
+            <p></p>
+            
+        </div>
+		
+        
+
+		
+        <div id="div5" style="padding-right: 20px; padding-left: 20px;">
+            <h3><strong><i class="fa fa-check-circle" aria-hidden="true"></i> VAMOS COMEÇAR?</strong> </h3>
+            Viu só como o <strong>Donation Station</strong> é fácil? Agora é só começar a usar.
+            <p></p>
+            
+            
+            <a href="index.html">
+                
+            <button class="button">Começar   <i class="f7-icons">check_round_fill</i></button>   
+            </a>
+        </div>
+		
+    </div>
+
+    <script>
+        var slider = tns({
+            container: '.my-slider',
+            items: 1,
+            slideBy: 'page',
+            mouseDrag: true,
+            controls: false,
+            nav: true
+        });
+        var alturaTela = screen.height - 150;
+        document.getElementById("div0").style.height = alturaTela + "px";
+        document.getElementById("div1").style.height = alturaTela + "px";
+        document.getElementById("div2").style.height = alturaTela + "px";
+        document.getElementById("div3").style.height = alturaTela + "px";
+        document.getElementById("div4").style.height = alturaTela + "px";
+        document.getElementById("div5").style.height = alturaTela + "px";
+    </script>
+</body>
+
+</html>

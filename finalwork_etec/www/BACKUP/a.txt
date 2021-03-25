@@ -1,0 +1,55 @@
+ 
+function Limpatudo(){
+    
+document.getElementById("de").value = "";
+document.getElementById("para").value = "";
+document.getElementById("msg").value = "";
+document.getElementById("msg").focus();    
+}
+
+function GravaMSG()
+{
+    // conecta ao servidor
+	var xmlhttp = new XMLHttpRequest();
+ 
+	/* colocar na url os valores que quer passar para o servidor.
+	   seu arquivo PHP deverá capturar os dados usando $_GET[]; */
+    var url = "http://173.249.14.52/~aluno/3serie/18Lucas/exemplo-de-insercao-de-dados.php?de=" + document.getElementById("de").value + "&para=" + document.getElementById("para").value + "&msg=" + document.getElementById("msg").value + ""; 
+	xmlhttp.open("GET", url, true);
+	xmlhttp.send();
+    document.getElementById("msg").value = "";
+document.getElementById("msg").focus(); 
+	
+   // alert("Gravado com sucesso no servidor");
+}
+
+function Pegamensagem(){
+    var xmlhttp = new XMLHttpRequest();
+var url = "http://173.249.14.52/~aluno/3serie/18Lucas/select.php";
+xmlhttp.onreadystatechange=function() {
+    if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+        ConectaServidor(xmlhttp.responseText);
+    }
+}
+xmlhttp.open("GET", url, true);
+xmlhttp.send();
+ 
+function ConectaServidor(response) {
+    var dados = JSON.parse(response); //faz a conversão do texto da WEB para JSON
+    var i;
+	var conteudo = "";
+    var conteudo2 = "";
+ 
+   
+		conteudo = dados[1].conversas_de;	
+    conteudo2 = dados[3].conversas_de;	
+	
+    
+ 
+    document.getElementById("card1").innerHTML = conteudo;
+    document.getElementById("card2").innerHTML = conteudo2;
+    
+}
+    
+    
+}

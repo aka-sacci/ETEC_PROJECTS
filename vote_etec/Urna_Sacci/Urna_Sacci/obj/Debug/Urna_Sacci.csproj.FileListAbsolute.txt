@@ -1,0 +1,67 @@
+D:\00_Sacci\Urna_Sacci\Urna_Sacci\bin\Debug\Urna_Sacci.exe.config
+D:\00_Sacci\Urna_Sacci\Urna_Sacci\bin\Debug\Urna_Sacci.exe
+D:\00_Sacci\Urna_Sacci\Urna_Sacci\bin\Debug\Urna_Sacci.pdb
+D:\00_Sacci\Urna_Sacci\Urna_Sacci\obj\Debug\Urna_Sacci.csprojResolveAssemblyReference.cache
+D:\00_Sacci\Urna_Sacci\Urna_Sacci\obj\Debug\Urna_Sacci.Form1.resources
+D:\00_Sacci\Urna_Sacci\Urna_Sacci\obj\Debug\Urna_Sacci.Properties.Resources.resources
+D:\00_Sacci\Urna_Sacci\Urna_Sacci\obj\Debug\Urna_Sacci.csproj.GenerateResource.Cache
+D:\00_Sacci\Urna_Sacci\Urna_Sacci\obj\Debug\Urna_Sacci.csproj.CoreCompileInputs.cache
+D:\00_Sacci\Urna_Sacci\Urna_Sacci\obj\Debug\Urna_Sacci.exe
+D:\00_Sacci\Urna_Sacci\Urna_Sacci\obj\Debug\Urna_Sacci.pdb
+F:\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\bin\Debug\Urna_Sacci.exe.config
+F:\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\bin\Debug\Urna_Sacci.exe
+F:\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\bin\Debug\Urna_Sacci.pdb
+F:\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\obj\Debug\Urna_Sacci.csprojResolveAssemblyReference.cache
+F:\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\obj\Debug\Urna_Sacci.Form1.resources
+F:\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\obj\Debug\Urna_Sacci.Properties.Resources.resources
+F:\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\obj\Debug\Urna_Sacci.csproj.GenerateResource.Cache
+F:\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\obj\Debug\Urna_Sacci.csproj.CoreCompileInputs.cache
+F:\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\obj\Debug\Urna_Sacci.exe
+F:\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\obj\Debug\Urna_Sacci.pdb
+F:\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\bin\Debug\MySql.Data.dll
+F:\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\obj\Debug\Urna_Sacci.Form2.resources
+F:\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\bin\Debug\MySql.Data.xml
+F:\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\obj\Debug\Urna_Sacci.csproj.CopyComplete
+I:\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\bin\Debug\Urna_Sacci.exe.config
+I:\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\bin\Debug\Urna_Sacci.exe
+I:\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\bin\Debug\Urna_Sacci.pdb
+I:\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\bin\Debug\MySql.Data.dll
+I:\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\obj\Debug\Urna_Sacci.csprojResolveAssemblyReference.cache
+I:\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\obj\Debug\Urna_Sacci.Form1.resources
+I:\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\obj\Debug\Urna_Sacci.Form2.resources
+I:\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\obj\Debug\Urna_Sacci.Properties.Resources.resources
+I:\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\obj\Debug\Urna_Sacci.csproj.GenerateResource.Cache
+I:\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\obj\Debug\Urna_Sacci.csproj.CoreCompileInputs.cache
+I:\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\obj\Debug\Urna_Sacci.exe
+I:\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\obj\Debug\Urna_Sacci.pdb
+J:\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\bin\Debug\Urna_Sacci.exe.config
+J:\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\bin\Debug\Urna_Sacci.exe
+J:\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\bin\Debug\Urna_Sacci.pdb
+J:\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\bin\Debug\MySql.Data.dll
+J:\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\obj\Debug\Urna_Sacci.csprojResolveAssemblyReference.cache
+J:\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\obj\Debug\Urna_Sacci.Form1.resources
+J:\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\obj\Debug\Urna_Sacci.Form2.resources
+J:\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\obj\Debug\Urna_Sacci.Properties.Resources.resources
+J:\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\obj\Debug\Urna_Sacci.csproj.GenerateResource.Cache
+J:\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\obj\Debug\Urna_Sacci.csproj.CoreCompileInputs.cache
+J:\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\obj\Debug\Urna_Sacci.exe
+J:\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\obj\Debug\Urna_Sacci.pdb
+J:\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\obj\Debug\Urna_Sacci.Form3.resources
+I:\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\obj\Debug\Urna_Sacci.Form3.resources
+I:\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\obj\Debug\Urna_Sacci.Form4.resources
+I:\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\obj\Debug\Urna_Sacci.csproj.CopyComplete
+D:\Bibliotecas\Documentos\01_arquivos\backups\2\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\bin\Debug\Urna_Sacci.exe.config
+D:\Bibliotecas\Documentos\01_arquivos\backups\2\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\bin\Debug\Urna_Sacci.exe
+D:\Bibliotecas\Documentos\01_arquivos\backups\2\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\bin\Debug\Urna_Sacci.pdb
+D:\Bibliotecas\Documentos\01_arquivos\backups\2\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\bin\Debug\MySql.Data.dll
+D:\Bibliotecas\Documentos\01_arquivos\backups\2\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\obj\Debug\Urna_Sacci.csprojAssemblyReference.cache
+D:\Bibliotecas\Documentos\01_arquivos\backups\2\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\obj\Debug\Urna_Sacci.Form1.resources
+D:\Bibliotecas\Documentos\01_arquivos\backups\2\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\obj\Debug\Urna_Sacci.Form2.resources
+D:\Bibliotecas\Documentos\01_arquivos\backups\2\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\obj\Debug\Urna_Sacci.Form3.resources
+D:\Bibliotecas\Documentos\01_arquivos\backups\2\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\obj\Debug\Urna_Sacci.Form4.resources
+D:\Bibliotecas\Documentos\01_arquivos\backups\2\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\obj\Debug\Urna_Sacci.Properties.Resources.resources
+D:\Bibliotecas\Documentos\01_arquivos\backups\2\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\obj\Debug\Urna_Sacci.csproj.GenerateResource.cache
+D:\Bibliotecas\Documentos\01_arquivos\backups\2\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\obj\Debug\Urna_Sacci.csproj.CoreCompileInputs.cache
+D:\Bibliotecas\Documentos\01_arquivos\backups\2\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\obj\Debug\Urna_Sacci.csproj.CopyComplete
+D:\Bibliotecas\Documentos\01_arquivos\backups\2\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\obj\Debug\Urna_Sacci.exe
+D:\Bibliotecas\Documentos\01_arquivos\backups\2\Arquivos\2018\C#\Urna Eletrônica\Urna_Sacci\Urna_Sacci\obj\Debug\Urna_Sacci.pdb

@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- Required meta tags-->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui, viewport-fit=cover">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <!-- Color theme for statusbar -->
+    <meta name="theme-color" content="#2196f3">
+    <!-- Your app title -->
+    <title>Donation App - Bem vindo!</title>
+    <!-- Path to Framework7 Library CSS -->
+    <link rel="stylesheet" href="f7/css/framework7.min.css">
+ <link rel="stylesheet" href="framework7-icons-master/css/framework7-icons.css">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/css/materialize.min.css">
+       <link rel="stylesheet" href="style.css">
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.11/jquery.mask.min.js"></script>    <!-- Path to your custom app styles-->
+    
+       
+    
+      
+  </head>
+  <body onload="loginautomatico()">
+      
+      
+    <!-- App root element -->
+    <div id="app">
+        
+        <div class='panel panel-left panel-reveal'>
+    <div class='block'>
+        
+       
+        
+       <div class='list'>
+    <ul>
+        <li>
+            <div class='item-content' onclick="">
+                <div class='item-media'><i class='f7-icons'>person</i></div>
+                <div class='item-inner'>
+                    <div class='item-title' id="username">User1</div>
+                </div>
+            </div>
+        </li>
+        
+             <li>
+            <div class='item-content'>
+                
+                <div class='item-inner'>
+                    <div class='item-title'>  <button class='col button button-small button-round button-outline' onclick='chamapag2(); app.panel.close();'>Procurar...</button></div>
+                </div>
+            </div>
+        </li>
+        
+         <li>
+            <div class='item-content'>
+              
+                <div class='item-inner'>
+                    <div class='item-title'><button class='col button button-small button-round button-outline' onclick='app.router.navigate("/ongs/"); app.panel.close();'>Ong´s </button>
+               
+            </div>
+                </div>
+             </div>
+            
+        </li>
+        
+         <li>
+            <div class='item-content'>
+              
+                <div class='item-inner'>
+                    <div class='item-title'><button class='col button button-small button-round button-outline' onclick='chamapag3(); app.panel.close();'>Fale Conosco</button> </div>
+                </div>
+             </div>
+            
+        </li>
+        
+        
+        
+        <li>
+            <div class='item-content'>
+                
+                <div class='item-inner'>
+                    <div class='item-title'>  <button class='col button button-small button-round button-outline' onclick="app.dialog.confirm('Deseja mesmo sair?', 'Pergunta', function () {  sair(); });">Sair</button></div>
+                </div>
+            </div>
+        </li>
+        
+        
+    </ul>
+</div>
+    </div>
+</div>
+      <!-- Statusbar overlay -->
+     
+        
+        
+        
+        <div class="statusbar"></div>
+    
+      <!-- Your main view, should have "view-main" class -->
+      <div class="view view-main">
+        <!-- Initial Page, "data-name" contains page name -->
+        <div data-name="home" class="page">
+             
+<div class="page-content -scroll-content" style='background-image:url(imgs/gradiente1.jpg)' >
+          <!-- Toolbar -->
+          <div class="toolbar ">
+              
+            <div class="toolbar-inner " style='background-color: rgb(76,150,215)' >
+              <!-- Toolbar links -->    
+                <p class="text-align-center"><center>Donation Station - Aplicativo</center></p>
+              
+                
+                
+                
+                
+                
+                
+                
+            </div>
+          </div>
+    <div id="icontent">          
+    <p><center><img src="imgs/LOGO.png"></center></p> 
+    
+     
+   <div class="row">
+        <div class="list">
+    <li class="item-content item-input">
+      <div class="item-media">
+        <i class="icon demo-list-icon"></i>
+      </div>
+      <div class="item-inner">
+        <div class="item-title item-label"><i class="f7-icons">person</i></div>
+        <div class="item-input-wrap">
+          <input maxlength="11" type="text" placeholder="DDD e telefone" style="color: floralwhite" id="telefone" name="login" required name="telefone">
+          <span class="input-clear-button"></span>
+        </div>
+      </div>
+    </li>
+    <li class="item-content item-input">
+      <div class="item-media">
+          <i class="icon demo-list-icon"></i>
+        </div>
+      <div class="item-inner">
+           <div class="item-title item-label"><i class="f7-icons">lock</i></div>
+               <div class="item-input-wrap">
+          <input maxlength="50" type="password" placeholder="Senha" id="senha" name="senha" required>
+          <span class="input-clear-button"></span>
+        </div>
+      </div>
+    </li>
+    </div>
+    </div> 
+    <div class="row aa" style="margin-left: 10%; margin-right: 10%;">
+     <button class="col button button-small button-round button-fill" onclick='login()'>Entrar</button>
+     <button class="col button button-small button-round button-fill" onclick="chamapag4()">Cadastrar-se</button>
+    </div>
+      
+
+            </div>
+        
+            </div></div></div>
+
+          
+         
+        
+        
+    </div>
+    <!-- Path to Framework7 Library JS-->
+    <script type="text/javascript" src="f7/js/framework7.min.js"></script>
+    <!-- Path to your app js-->
+    <script type="text/javascript" src="f7/js/my-app.js"></script>
+    <script src="js/funcoes.js"></script>
+          <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
+  </body>
+</html>

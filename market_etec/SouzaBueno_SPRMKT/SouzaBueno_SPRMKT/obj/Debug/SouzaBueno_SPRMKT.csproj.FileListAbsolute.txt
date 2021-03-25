@@ -1,0 +1,61 @@
+C:\Users\Professor\source\repos\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\bin\Debug\SouzaBueno_SPRMKT.exe.config
+C:\Users\Professor\source\repos\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\bin\Debug\SouzaBueno_SPRMKT.exe
+C:\Users\Professor\source\repos\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\bin\Debug\SouzaBueno_SPRMKT.pdb
+C:\Users\Professor\source\repos\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\obj\Debug\SouzaBueno_SPRMKT.csprojResolveAssemblyReference.cache
+C:\Users\Professor\source\repos\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\obj\Debug\SouzaBueno_SPRMKT.Form1.resources
+C:\Users\Professor\source\repos\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\obj\Debug\SouzaBueno_SPRMKT.Properties.Resources.resources
+C:\Users\Professor\source\repos\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\obj\Debug\SouzaBueno_SPRMKT.csproj.GenerateResource.Cache
+C:\Users\Professor\source\repos\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\obj\Debug\SouzaBueno_SPRMKT.csproj.CoreCompileInputs.cache
+C:\Users\Professor\source\repos\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\obj\Debug\SouzaBueno_SPRMKT.exe
+C:\Users\Professor\source\repos\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\obj\Debug\SouzaBueno_SPRMKT.pdb
+D:\00_SACCI\C#\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\bin\Debug\SouzaBueno_SPRMKT.exe.config
+D:\00_SACCI\C#\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\bin\Debug\SouzaBueno_SPRMKT.exe
+D:\00_SACCI\C#\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\bin\Debug\SouzaBueno_SPRMKT.pdb
+D:\00_SACCI\C#\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\obj\Debug\SouzaBueno_SPRMKT.csprojResolveAssemblyReference.cache
+D:\00_SACCI\C#\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\obj\Debug\SouzaBueno_SPRMKT.Form1.resources
+D:\00_SACCI\C#\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\obj\Debug\SouzaBueno_SPRMKT.Properties.Resources.resources
+D:\00_SACCI\C#\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\obj\Debug\SouzaBueno_SPRMKT.csproj.GenerateResource.Cache
+D:\00_SACCI\C#\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\obj\Debug\SouzaBueno_SPRMKT.csproj.CoreCompileInputs.cache
+D:\00_SACCI\C#\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\obj\Debug\SouzaBueno_SPRMKT.exe
+D:\00_SACCI\C#\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\obj\Debug\SouzaBueno_SPRMKT.pdb
+D:\00_SACCI\oi z\C#\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\bin\Debug\SouzaBueno_SPRMKT.exe.config
+D:\00_SACCI\oi z\C#\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\bin\Debug\SouzaBueno_SPRMKT.exe
+D:\00_SACCI\oi z\C#\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\bin\Debug\SouzaBueno_SPRMKT.pdb
+D:\00_SACCI\oi z\C#\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\obj\Debug\SouzaBueno_SPRMKT.csprojResolveAssemblyReference.cache
+D:\00_SACCI\oi z\C#\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\obj\Debug\SouzaBueno_SPRMKT.Form1.resources
+D:\00_SACCI\oi z\C#\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\obj\Debug\SouzaBueno_SPRMKT.Properties.Resources.resources
+D:\00_SACCI\oi z\C#\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\obj\Debug\SouzaBueno_SPRMKT.csproj.GenerateResource.Cache
+D:\00_SACCI\oi z\C#\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\obj\Debug\SouzaBueno_SPRMKT.csproj.CoreCompileInputs.cache
+D:\00_SACCI\oi z\C#\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\obj\Debug\SouzaBueno_SPRMKT.exe
+D:\00_SACCI\oi z\C#\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\obj\Debug\SouzaBueno_SPRMKT.pdb
+I:\Arquivos\2018\C#\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\bin\Debug\SouzaBueno_SPRMKT.exe.config
+I:\Arquivos\2018\C#\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\bin\Debug\SouzaBueno_SPRMKT.exe
+I:\Arquivos\2018\C#\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\bin\Debug\SouzaBueno_SPRMKT.pdb
+I:\Arquivos\2018\C#\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\obj\Debug\SouzaBueno_SPRMKT.csprojResolveAssemblyReference.cache
+I:\Arquivos\2018\C#\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\obj\Debug\SouzaBueno_SPRMKT.Form1.resources
+I:\Arquivos\2018\C#\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\obj\Debug\SouzaBueno_SPRMKT.Properties.Resources.resources
+I:\Arquivos\2018\C#\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\obj\Debug\SouzaBueno_SPRMKT.csproj.GenerateResource.Cache
+I:\Arquivos\2018\C#\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\obj\Debug\SouzaBueno_SPRMKT.csproj.CoreCompileInputs.cache
+I:\Arquivos\2018\C#\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\obj\Debug\SouzaBueno_SPRMKT.exe
+I:\Arquivos\2018\C#\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\obj\Debug\SouzaBueno_SPRMKT.pdb
+I:\Arquivos\2018\C#\Souza Bueno SPMKT\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\obj\Debug\SouzaBueno_SPRMKT.csprojResolveAssemblyReference.cache
+I:\Arquivos\2018\C#\Souza Bueno SPMKT\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\obj\Debug\SouzaBueno_SPRMKT.Form1.resources
+I:\Arquivos\2018\C#\Souza Bueno SPMKT\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\obj\Debug\SouzaBueno_SPRMKT.Properties.Resources.resources
+I:\Arquivos\2018\C#\Souza Bueno SPMKT\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\obj\Debug\SouzaBueno_SPRMKT.csproj.GenerateResource.Cache
+I:\Arquivos\2018\C#\Souza Bueno SPMKT\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\obj\Debug\SouzaBueno_SPRMKT.csproj.CoreCompileInputs.cache
+I:\Arquivos\2018\C#\Souza Bueno SPMKT\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\obj\Debug\SouzaBueno_SPRMKT.exe
+I:\Arquivos\2018\C#\Souza Bueno SPMKT\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\obj\Debug\SouzaBueno_SPRMKT.pdb
+I:\Arquivos\2018\C#\Souza Bueno SPMKT\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\bin\Debug\SouzaBueno_SPRMKT.exe.config
+I:\Arquivos\2018\C#\Souza Bueno SPMKT\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\bin\Debug\SouzaBueno_SPRMKT.exe
+I:\Arquivos\2018\C#\Souza Bueno SPMKT\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\bin\Debug\SouzaBueno_SPRMKT.pdb
+D:\Bibliotecas\Documentos\01_arquivos\backups\2\Arquivos\2018\C#\Souza Bueno SPMKT\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\bin\Debug\SouzaBueno_SPRMKT.exe.config
+D:\Bibliotecas\Documentos\01_arquivos\backups\2\Arquivos\2018\C#\Souza Bueno SPMKT\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\bin\Debug\SouzaBueno_SPRMKT.exe
+D:\Bibliotecas\Documentos\01_arquivos\backups\2\Arquivos\2018\C#\Souza Bueno SPMKT\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\bin\Debug\SouzaBueno_SPRMKT.pdb
+D:\Bibliotecas\Documentos\01_arquivos\backups\2\Arquivos\2018\C#\Souza Bueno SPMKT\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\obj\Debug\SouzaBueno_SPRMKT.csprojAssemblyReference.cache
+D:\Bibliotecas\Documentos\01_arquivos\backups\2\Arquivos\2018\C#\Souza Bueno SPMKT\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\obj\Debug\SouzaBueno_SPRMKT.Form1.resources
+D:\Bibliotecas\Documentos\01_arquivos\backups\2\Arquivos\2018\C#\Souza Bueno SPMKT\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\obj\Debug\SouzaBueno_SPRMKT.Properties.Resources.resources
+D:\Bibliotecas\Documentos\01_arquivos\backups\2\Arquivos\2018\C#\Souza Bueno SPMKT\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\obj\Debug\SouzaBueno_SPRMKT.csproj.GenerateResource.cache
+D:\Bibliotecas\Documentos\01_arquivos\backups\2\Arquivos\2018\C#\Souza Bueno SPMKT\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\obj\Debug\SouzaBueno_SPRMKT.csproj.CoreCompileInputs.cache
+D:\Bibliotecas\Documentos\01_arquivos\backups\2\Arquivos\2018\C#\Souza Bueno SPMKT\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\obj\Debug\SouzaBueno_SPRMKT.csproj.CopyComplete
+D:\Bibliotecas\Documentos\01_arquivos\backups\2\Arquivos\2018\C#\Souza Bueno SPMKT\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\obj\Debug\SouzaBueno_SPRMKT.exe
+D:\Bibliotecas\Documentos\01_arquivos\backups\2\Arquivos\2018\C#\Souza Bueno SPMKT\SouzaBueno_SPRMKT\SouzaBueno_SPRMKT\obj\Debug\SouzaBueno_SPRMKT.pdb

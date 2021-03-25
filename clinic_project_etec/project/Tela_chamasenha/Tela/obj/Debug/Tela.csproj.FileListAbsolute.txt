@@ -1,0 +1,23 @@
+I:\Arquivos\2018\C#\SUS\PROJ\Tela_chamasenha\Tela\bin\Debug\Tela.exe.config
+I:\Arquivos\2018\C#\SUS\PROJ\Tela_chamasenha\Tela\bin\Debug\Tela.exe
+I:\Arquivos\2018\C#\SUS\PROJ\Tela_chamasenha\Tela\bin\Debug\Tela.pdb
+I:\Arquivos\2018\C#\SUS\PROJ\Tela_chamasenha\Tela\obj\Debug\Tela.csprojResolveAssemblyReference.cache
+I:\Arquivos\2018\C#\SUS\PROJ\Tela_chamasenha\Tela\obj\Debug\Tela.Form1.resources
+I:\Arquivos\2018\C#\SUS\PROJ\Tela_chamasenha\Tela\obj\Debug\Tela.Properties.Resources.resources
+I:\Arquivos\2018\C#\SUS\PROJ\Tela_chamasenha\Tela\obj\Debug\Tela.csproj.GenerateResource.cache
+I:\Arquivos\2018\C#\SUS\PROJ\Tela_chamasenha\Tela\obj\Debug\Tela.csproj.CoreCompileInputs.cache
+I:\Arquivos\2018\C#\SUS\PROJ\Tela_chamasenha\Tela\obj\Debug\Tela.exe
+I:\Arquivos\2018\C#\SUS\PROJ\Tela_chamasenha\Tela\obj\Debug\Tela.pdb
+I:\Arquivos\2018\C#\SUS\PROJ\Tela_chamasenha\Tela\bin\Debug\MySql.Data.dll
+I:\Arquivos\2018\C#\SUS\PROJ\Tela_chamasenha\Tela\obj\Debug\Tela.csproj.CopyComplete
+C:\Users\Lucas Sacci\Documents\Projetos\SUS\PROJ\Tela_chamasenha\Tela\bin\Debug\Tela.exe.config
+C:\Users\Lucas Sacci\Documents\Projetos\SUS\PROJ\Tela_chamasenha\Tela\bin\Debug\Tela.exe
+C:\Users\Lucas Sacci\Documents\Projetos\SUS\PROJ\Tela_chamasenha\Tela\bin\Debug\Tela.pdb
+C:\Users\Lucas Sacci\Documents\Projetos\SUS\PROJ\Tela_chamasenha\Tela\obj\Debug\Tela.csprojAssemblyReference.cache
+C:\Users\Lucas Sacci\Documents\Projetos\SUS\PROJ\Tela_chamasenha\Tela\obj\Debug\Tela.Form1.resources
+C:\Users\Lucas Sacci\Documents\Projetos\SUS\PROJ\Tela_chamasenha\Tela\obj\Debug\Tela.Properties.Resources.resources
+C:\Users\Lucas Sacci\Documents\Projetos\SUS\PROJ\Tela_chamasenha\Tela\obj\Debug\Tela.csproj.GenerateResource.cache
+C:\Users\Lucas Sacci\Documents\Projetos\SUS\PROJ\Tela_chamasenha\Tela\obj\Debug\Tela.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Sacci\Documents\Projetos\SUS\PROJ\Tela_chamasenha\Tela\obj\Debug\Tela.csproj.CopyComplete
+C:\Users\Lucas Sacci\Documents\Projetos\SUS\PROJ\Tela_chamasenha\Tela\obj\Debug\Tela.exe
+C:\Users\Lucas Sacci\Documents\Projetos\SUS\PROJ\Tela_chamasenha\Tela\obj\Debug\Tela.pdb

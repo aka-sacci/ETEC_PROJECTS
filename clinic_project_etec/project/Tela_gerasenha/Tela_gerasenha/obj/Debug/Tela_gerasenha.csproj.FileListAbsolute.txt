@@ -1,0 +1,34 @@
+I:\Arquivos\2018\C#\SUS\PROJ\Tela_gerasenha\Tela_gerasenha\bin\Debug\Tela_gerasenha.exe.config
+I:\Arquivos\2018\C#\SUS\PROJ\Tela_gerasenha\Tela_gerasenha\bin\Debug\Tela_gerasenha.exe
+I:\Arquivos\2018\C#\SUS\PROJ\Tela_gerasenha\Tela_gerasenha\bin\Debug\Tela_gerasenha.pdb
+I:\Arquivos\2018\C#\SUS\PROJ\Tela_gerasenha\Tela_gerasenha\obj\Debug\Tela_gerasenha.csprojResolveAssemblyReference.cache
+I:\Arquivos\2018\C#\SUS\PROJ\Tela_gerasenha\Tela_gerasenha\obj\Debug\Tela_gerasenha.Form1.resources
+I:\Arquivos\2018\C#\SUS\PROJ\Tela_gerasenha\Tela_gerasenha\obj\Debug\Tela_gerasenha.Properties.Resources.resources
+I:\Arquivos\2018\C#\SUS\PROJ\Tela_gerasenha\Tela_gerasenha\obj\Debug\Tela_gerasenha.csproj.GenerateResource.cache
+I:\Arquivos\2018\C#\SUS\PROJ\Tela_gerasenha\Tela_gerasenha\obj\Debug\Tela_gerasenha.csproj.CoreCompileInputs.cache
+I:\Arquivos\2018\C#\SUS\PROJ\Tela_gerasenha\Tela_gerasenha\obj\Debug\Tela_gerasenha.exe
+I:\Arquivos\2018\C#\SUS\PROJ\Tela_gerasenha\Tela_gerasenha\obj\Debug\Tela_gerasenha.pdb
+I:\Arquivos\2018\C#\SUS\PROJ\Tela_gerasenha\Tela_gerasenha\bin\Debug\MySql.Data.dll
+I:\Arquivos\2018\C#\SUS\PROJ\Tela_gerasenha\Tela_gerasenha\obj\Debug\Tela_gerasenha.csproj.CopyComplete
+C:\Users\SACCI\Downloads\Projetos\SUS\PROJ\Tela_gerasenha\Tela_gerasenha\bin\Debug\Tela_gerasenha.exe.config
+C:\Users\SACCI\Downloads\Projetos\SUS\PROJ\Tela_gerasenha\Tela_gerasenha\bin\Debug\Tela_gerasenha.exe
+C:\Users\SACCI\Downloads\Projetos\SUS\PROJ\Tela_gerasenha\Tela_gerasenha\bin\Debug\Tela_gerasenha.pdb
+C:\Users\SACCI\Downloads\Projetos\SUS\PROJ\Tela_gerasenha\Tela_gerasenha\obj\Debug\Tela_gerasenha.csprojAssemblyReference.cache
+C:\Users\SACCI\Downloads\Projetos\SUS\PROJ\Tela_gerasenha\Tela_gerasenha\obj\Debug\Tela_gerasenha.Form1.resources
+C:\Users\SACCI\Downloads\Projetos\SUS\PROJ\Tela_gerasenha\Tela_gerasenha\obj\Debug\Tela_gerasenha.Properties.Resources.resources
+C:\Users\SACCI\Downloads\Projetos\SUS\PROJ\Tela_gerasenha\Tela_gerasenha\obj\Debug\Tela_gerasenha.csproj.GenerateResource.cache
+C:\Users\SACCI\Downloads\Projetos\SUS\PROJ\Tela_gerasenha\Tela_gerasenha\obj\Debug\Tela_gerasenha.csproj.CoreCompileInputs.cache
+C:\Users\SACCI\Downloads\Projetos\SUS\PROJ\Tela_gerasenha\Tela_gerasenha\obj\Debug\Tela_gerasenha.csproj.CopyComplete
+C:\Users\SACCI\Downloads\Projetos\SUS\PROJ\Tela_gerasenha\Tela_gerasenha\obj\Debug\Tela_gerasenha.exe
+C:\Users\SACCI\Downloads\Projetos\SUS\PROJ\Tela_gerasenha\Tela_gerasenha\obj\Debug\Tela_gerasenha.pdb
+C:\Users\Lucas Sacci\Documents\Projetos\SUS\PROJ\Tela_gerasenha\Tela_gerasenha\bin\Debug\Tela_gerasenha.exe.config
+C:\Users\Lucas Sacci\Documents\Projetos\SUS\PROJ\Tela_gerasenha\Tela_gerasenha\bin\Debug\Tela_gerasenha.exe
+C:\Users\Lucas Sacci\Documents\Projetos\SUS\PROJ\Tela_gerasenha\Tela_gerasenha\bin\Debug\Tela_gerasenha.pdb
+C:\Users\Lucas Sacci\Documents\Projetos\SUS\PROJ\Tela_gerasenha\Tela_gerasenha\obj\Debug\Tela_gerasenha.csprojAssemblyReference.cache
+C:\Users\Lucas Sacci\Documents\Projetos\SUS\PROJ\Tela_gerasenha\Tela_gerasenha\obj\Debug\Tela_gerasenha.Form1.resources
+C:\Users\Lucas Sacci\Documents\Projetos\SUS\PROJ\Tela_gerasenha\Tela_gerasenha\obj\Debug\Tela_gerasenha.Properties.Resources.resources
+C:\Users\Lucas Sacci\Documents\Projetos\SUS\PROJ\Tela_gerasenha\Tela_gerasenha\obj\Debug\Tela_gerasenha.csproj.GenerateResource.cache
+C:\Users\Lucas Sacci\Documents\Projetos\SUS\PROJ\Tela_gerasenha\Tela_gerasenha\obj\Debug\Tela_gerasenha.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Sacci\Documents\Projetos\SUS\PROJ\Tela_gerasenha\Tela_gerasenha\obj\Debug\Tela_gerasenha.csproj.CopyComplete
+C:\Users\Lucas Sacci\Documents\Projetos\SUS\PROJ\Tela_gerasenha\Tela_gerasenha\obj\Debug\Tela_gerasenha.exe
+C:\Users\Lucas Sacci\Documents\Projetos\SUS\PROJ\Tela_gerasenha\Tela_gerasenha\obj\Debug\Tela_gerasenha.pdb

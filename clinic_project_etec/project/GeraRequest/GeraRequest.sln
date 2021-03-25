@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeraRequest", "GeraRequest\GeraRequest.csproj", "{715071FD-2C77-4417-BFAD-DDC4F3143AE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{715071FD-2C77-4417-BFAD-DDC4F3143AE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{715071FD-2C77-4417-BFAD-DDC4F3143AE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{715071FD-2C77-4417-BFAD-DDC4F3143AE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{715071FD-2C77-4417-BFAD-DDC4F3143AE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2841583-15B9-4D7C-9EAF-FDA244E560C9}
+	EndGlobalSection
+EndGlobal
